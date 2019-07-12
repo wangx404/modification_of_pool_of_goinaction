@@ -2,7 +2,7 @@
 Pool example in "GO In action" has a small problem to fix.
 
 The output of ths pool example would look like below:
-
+`
 2019/07/12 14:59:35 Acquire: New Resource
 2019/07/12 14:59:35 Create: New Connection 1
 2019/07/12 14:59:35 Acquire: New Resource
@@ -83,3 +83,4 @@ The output of ths pool example would look like below:
 2019/07/12 14:59:40 Shutdown Program.
 2019/07/12 14:59:40 Close: Connection 2
 2019/07/12 14:59:40 Close: Connection 1
+`
